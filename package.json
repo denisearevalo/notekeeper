@@ -1,0 +1,22 @@
+{
+  "name": "notekeeper",
+  "version": "1.0.0",
+  "description": "Usage:\r Use this user friendly application to create notes. Save and delete any notes throughout the day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisearevalo/notekeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisearevalo/notekeeper/issues"
+  },
+  "homepage": "https://github.com/denisearevalo/notekeeper#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
