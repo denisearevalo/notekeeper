@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "inp",
+  "version": "1.0.0",
+  "main": "route.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
